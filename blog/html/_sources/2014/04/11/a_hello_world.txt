@@ -16,7 +16,7 @@ of we op een snelle en eenvoudige manier blogs kunnen schrijven en tegelijk de k
 gebruiken voor de layout van de blogs.
 
 
-.. warning::
+.. note::
 
     De meeste blogs zullen in het Nederlands geschreven worden. Gewoon omdat dat kan en het een mooie taal is.
 
