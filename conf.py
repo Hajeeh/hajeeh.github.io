@@ -11,10 +11,10 @@ import tinkerer.paths
 project = 'Hajeeh\'s blog'
 
 # Change this to the tagline of your blog
-tagline = 'A blog about something and nothing.....'
+tagline = 'Een blog over van alles en niets.....'
 
 # Change this to the description of your blog
-description = 'The blog\'s about nothing and something.....'
+description = 'Een blog over van alles en niets.....'
 
 # Change this to your name
 author = 'Hajeeh'
@@ -23,7 +23,8 @@ author = 'Hajeeh'
 copyright = '2014, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://127.0.0.1/blog/html/'
+#website = 'http://127.0.0.1/blog/html/'
+website = 'http://hajeeh.github.io/blog/html/'
 
 # **************************************************************
 # More tweaks you can do
