@@ -11,9 +11,9 @@ In mijn werk en privé maak ik al geruime tijd gebruik van git als repositorie, 
 En wat is dan een eigen github_ account_ zonder een repositorie. De combinatie van een blog in combinatie met het github gaf de doorslag om hiermee te beginnen.
 Maar ook de eenvoud van reStructuredText om op een snelle manier blog te kunnen schrijven heeft er mede aan bijgedragen. 
 
-Mijn intenties zijn om regelmatig iets te posten over iets technisch. Dat kan van alles zijn, waar meestal is het een oplossing van een probleem waar ik tegen aan liep.
+Mijn intenties zijn om regelmatig iets te posten over iets technisch. Dat kan van alles zijn, maar meestal is het een oplossing van een probleem waar ik tegen aan liep.
 
-Laten we over een jaar maar eens terugblikken en dan zien of het ook inderdaad gelukt is om regelmatig iets op de blog te schrijven.
+Laten we over een jaar maar eens terugblikken en dan zien of het ook inderdaad gelukt is om regelmatig iets op dit blog te schrijven.
 
 .. _github: https://github.com/
 .. _account: https://github.com/hajeeh/
