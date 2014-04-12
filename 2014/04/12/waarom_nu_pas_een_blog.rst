@@ -1,0 +1,29 @@
+Waarom nu pas een blog....
+==========================
+
+Waarom nu pas een blog, terwijl de hele wereld al bijna eeuwen, bij wijze van spreken, aan het bloggen is.
+Eigenlijk is dat tweeledig. Ten eerste omdat ik nu pas serieus op zoek was naar een eenvoudige manier om blog te 
+kunnen schrijven en posten. Een framework wat zonder veel rompslomp te gebruiken is en waarmee eenvoudig sourcode en plaatje in te voegen is.
+Ik denk dat dat met  tinkerer_ mogelijk is. Daarnaast wil ik eigenlijk niet alleen maar 'kennis lenen' maar ook af en toe wat 'kennis delen'. 
+Dat is een een nobel streven en hoop dat dat ook gaat lukken. Laten we het eens een jaar gaan proberen.....
+
+In mijn werk en privé maak ik al geruime tijd gebruik van git als repositorie, maar het was er nog nooit van gekomen om github_ te gaan gebruiken.
+En wat is dan een eigen github_ account_ zonder een repositorie. De combinatie van een blog in combinatie met het github gaf de doorslag om hiermee te beginnen.
+Maar ook de eenvoud van reStructuredText om op een snelle manier blog te kunnen schrijven heeft er mede aan bijgedragen. 
+
+Mijn intenties zijn om regelmatig iets te posten over iets technisch. Dat kan van alles zijn, waar meestal is het een oplossing van een probleem waar ik tegen aan liep.
+
+Laten we over een jaar maar eens terugblikken en dan zien of het ook inderdaad gelukt is om regelmatig iets op de blog te schrijven.
+
+.. _github: https://github.com/
+.. _account: https://github.com/hajeeh/
+.. _tinkerer: http://tinkerer.me/index.html
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::
+
+
+
