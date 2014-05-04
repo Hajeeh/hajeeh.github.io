@@ -19,7 +19,7 @@ gebruiken voor de layout van de blogs.
 
     De meeste blogs zullen in het Nederlands geschreven worden. Gewoon omdat dat kan en het een mooie taal is.
 
-    People who don't read the dutch language need to use google translate. 
+    People who don't read and understand the dutch language need to use google translate. 
 
 
 .. _tinkerer: http://tinkerer.me/index.html
